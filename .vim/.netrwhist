@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/twr.devops/code/github/grababyte/terraform-aws-convertr-demo/modules/convertr_api_gateway'
+let g:netrw_dirhist_8='/Users/twr.devops/code/github/grababyte/terraform-aws-convertr-demo/test'
+let g:netrw_dirhist_7='/Users/twr.devops/convertr_demo_tmp'
+let g:netrw_dirhist_6='/Users/twr.devops/code/github/grababyte/terraform-aws-convertr-demo/modules/convertr_lambda'
+let g:netrw_dirhist_5='/Users/twr.devops/code/github/grababyte/terraform-aws-convertr-demo/.github/workflows'
+let g:netrw_dirhist_4='/Users/twr.devops/code/github/grababyte/terraform-aws-convertr-demo/modules/convertr_api_gateway'
+let g:netrw_dirhist_3='/Users/twr.devops/code/github/grababyte/terraform-aws-convertr-demo/modules/convertr_lambda'
+let g:netrw_dirhist_2='/Users/twr.devops/code/github/grababyte/terraform-aws-convertr-demo/modules/convertr_api_gateway'
+let g:netrw_dirhist_1='/Users/twr.devops/code/github/grababyte/terraform-aws-convertr-demo/backends'
+let g:netrw_dirhist_0='/Users/twr.devops/code/github/grababyte/terraform-aws-convertr-demo/modules/convertr_api_gateway'
